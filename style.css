@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background:linear-gradient(to right, red, navy);
+    color:rgba(0,0,0,0.7);
+}
+h1{
+    text-transform:uppercase;
+}
+h2{
+    text-transform:lowercase;
+}
+h3{
+    font-style:italic;
+    font-size:12px;
+}
